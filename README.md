@@ -7,11 +7,9 @@
 ```
 > status: building things that matter
 > location: BITS Pilani, Dubai Campus
-> currently: Exploring deeper into the AI space
 ```
 
 [![Email](https://img.shields.io/badge/-f20230254%40dubai.bits--pilani.ac.in-0A0A0A?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A)](mailto:f20230254@dubai.bits-pilani.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A)](https://www.linkedin.com/in/sai-uday-kodithyala/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/saicodes1)
 
 </div>
@@ -24,8 +22,8 @@ class SaiUdayKodithyala:
         self.role          = "AI Engineer"
         self.base          = "BITS Pilani, Dubai"
         self.focus         = ["LLMs", "Agentic AI", "RAG", "Deep Learning"]
-        self.learning      = ["Distributed Systems", "MLOps", "AI Infrastructure"]
-        self.motto         = "Build things that matter."
+        self.learning      = ["Distributed Systems", "System Design"]
+        self.motto         = "Build things. Do things."
 
     def __repr__(self):
         return f"<SaiUdayKodithyala building {self.focus[1]} systems>"
@@ -128,7 +126,6 @@ class SaiUdayKodithyala:
 
 ```
 $ echo "Thanks for stopping by!"
-> Thanks for stopping by!
 ```
 
 </div>

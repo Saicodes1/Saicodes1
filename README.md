@@ -7,7 +7,7 @@
 ```
 > status: building things that matter
 > location: BITS Pilani, Dubai Campus
-> currently: shipping RAG pipelines & autonomous agents
+> currently: Exploring deeper into the AI space
 ```
 
 [![Email](https://img.shields.io/badge/-f20230254%40dubai.bits--pilani.ac.in-0A0A0A?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A)](mailto:f20230254@dubai.bits-pilani.ac.in)
@@ -122,7 +122,7 @@ class SaiUdayKodithyala:
 | | |
 |---|---|
 | 📧 **Email** | [f20230254@dubai.bits-pilani.ac.in](mailto:f20230254@dubai.bits-pilani.ac.in) |
-| 💼 **LinkedIn** | [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
+| 💼 **LinkedIn** | [YOUR_LINKEDIN](https://linkedin.com/in/sai-uday-kodithyala) |
 
 <br>
 

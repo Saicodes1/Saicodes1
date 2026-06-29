@@ -1,178 +1,95 @@
-
-<div align="center">
-
-# Hi 👋 I'm Sai Uday Kodithyala
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems"/>
-
-<br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
-
-</div>
-
----
-
-# 💫 About Me
+# Hey, I'm Sai 👋
 
 ```python
 class Sai:
 
-    education = "BITS Pilani Dubai"
+    role = "AI Engineer"
 
     interests = [
         "Machine Learning",
-        "Generative AI",
         "LLMs",
-        "RAG",
         "Agentic AI",
+        "Retrieval-Augmented Generation",
         "Deep Learning"
     ]
 
     currently_learning = [
-        "Distributed AI Systems",
+        "Distributed Systems",
         "MLOps",
-        "Scalable AI Infrastructure"
+        "AI Infrastructure"
     ]
 
-    motto = "Build. Learn. Repeat."
+    motto = "Build things that matter."
 ```
+
+<img align="right" width="330" src="YOUR_GIF_HERE"/>
+
+I'm a Computer Science student at **BITS Pilani Dubai** who enjoys building AI systems that solve real-world problems.
+
+Currently exploring large language models, retrieval systems, autonomous agents, and scalable AI infrastructure.
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p align="center">
+- Python
+- Java
+- SQL
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql"/>
+### AI & Machine Learning
 
-</p>
-
----
-
-### AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-
-</p>
-
----
+- PyTorch
+- TensorFlow
+- scikit-learn
+- LangChain
+- LangGraph
+- NumPy
+- Pandas
 
 ### Backend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
-
-</p>
-
----
+- FastAPI
+- Flask
+- Django
 
 ### Databases
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
-</p>
-
----
+- PostgreSQL
+- MySQL
 
 ### DevOps
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github"/>
-
-</p>
-
----
+- Docker
+- Kubernetes
+- Git
+- GitHub
 
 ### Data Visualization
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
+- Plotly
+- Dash
+- Matplotlib
+- Seaborn
 
 ---
 
-# 📊 GitHub Analytics
+## Currently Interested In
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- Agentic AI
+- Multi-Agent Systems
+- GraphRAG
+- LLM Fine-Tuning
+- AI for Healthcare
+- Distributed Systems
 
 ---
 
-# 💻 Languages
+## Connect
 
-<p align="center">
+📧 f20230254@dubai.bits-pilani.ac.in
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+💼 LinkedIn → YOUR_LINKEDIN
 
-</p>
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:f20230254@dubai.bits-pilani.ac.in">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-*"The best way to predict the future is to build it."*
-
-</div>
+```

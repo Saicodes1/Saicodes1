@@ -2,17 +2,18 @@
 
 # `whoami`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Sai+Uday+Kodithyala;AI+Engineer+%7C+LLMs+%7C+Agentic+Systems;Building+RAG+pipelines+%26+autonomous+agents)](https://git.io/typing-svg)
+### Sai Uday Kodithyala
+**AI Engineer &nbsp;|&nbsp; LLMs &nbsp;|&nbsp; Agentic Systems**
 
 ```
 > status: building things that matter
 > location: BITS Pilani, Dubai Campus
-> currently: Exploring deeper into the AI space
+> currently: shipping RAG pipelines & autonomous agents
 ```
 
 [![Email](https://img.shields.io/badge/-f20230254%40dubai.bits--pilani.ac.in-0A0A0A?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A)](mailto:f20230254@dubai.bits-pilani.ac.in)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A)](https://www.linkedin.com/in/sai-uday-kodithyala/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/saicodes1)
+[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/YOUR_GITHUB)
 
 </div>
 
@@ -122,7 +123,7 @@ class SaiUdayKodithyala:
 | | |
 |---|---|
 | 📧 **Email** | [f20230254@dubai.bits-pilani.ac.in](mailto:f20230254@dubai.bits-pilani.ac.in) |
-| 💼 **LinkedIn** | [YOUR_LINKEDIN](https://linkedin.com/in/sai-uday-kodithyala) |
+| 💼 **LinkedIn** | [Sai Uday Kodithyala](https://www.linkedin.com/in/sai-uday-kodithyala/) |
 
 <br>
 

@@ -1,5 +1,6 @@
+<div align="center">
 
-# `whoami`
+# `SaiCodes`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Sai+Uday+Kodithyala;AI+Engineer+%7C+LLMs+%7C+Agentic+Systems;Building+RAG+pipelines+%26+autonomous+agents)](https://git.io/typing-svg)
 
@@ -119,7 +120,7 @@ class SaiUdayKodithyala:
 | | |
 |---|---|
 | 📧 **Email** | [f20230254@dubai.bits-pilani.ac.in](mailto:f20230254@dubai.bits-pilani.ac.in) |
-| 💼 **LinkedIn** | [YOUR_LINKEDIN](https://linkedin.com/in/sai-uday-kodithyala) |
+| 💼 **LinkedIn** | [Sai Uday Kodithyala](https://linkedin.com/in/sai-uday-kodithyala) |
 
 <br>
 

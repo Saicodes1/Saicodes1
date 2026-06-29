@@ -2,8 +2,7 @@
 
 # `whoami`
 
-### Sai Uday Kodithyala
-**AI Engineer · LLMs · Agentic Systems**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Sai+Uday+Kodithyala;AI+Engineer+%7C+LLMs+%7C+Agentic+Systems;Building+RAG+pipelines+%26+autonomous+agents)](https://git.io/typing-svg)
 
 ```
 > status: building things that matter
@@ -12,15 +11,15 @@
 ```
 
 [![Email](https://img.shields.io/badge/-f20230254%40dubai.bits--pilani.ac.in-0A0A0A?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A)](mailto:f20230254@dubai.bits-pilani.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A)](https://www.linkedin.com/in/sai-uday-kodithyala/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/saicodes1)
 
 </div>
 
 <br>
 
 ```python
-class Sai:
+class SaiUdayKodithyala:
     def __init__(self):
         self.role          = "AI Engineer"
         self.base          = "BITS Pilani, Dubai"
@@ -29,7 +28,7 @@ class Sai:
         self.motto         = "Build things that matter."
 
     def __repr__(self):
-        return f"<Sai building {self.focus[1]} systems>"
+        return f"<SaiUdayKodithyala building {self.focus[1]} systems>"
 ```
 
 <br>

@@ -1,95 +1,135 @@
-# Hey, I'm Sai 👋
+<div align="center">
+
+# `whoami`
+
+### Sai Uday Kodithyala
+**AI Engineer · LLMs · Agentic Systems**
+
+```
+> status: building things that matter
+> location: BITS Pilani, Dubai Campus
+> currently: shipping RAG pipelines & autonomous agents
+```
+
+[![Email](https://img.shields.io/badge/-f20230254%40dubai.bits--pilani.ac.in-0A0A0A?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0A0A0A)](mailto:f20230254@dubai.bits-pilani.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0A0A)](https://github.com/YOUR_GITHUB)
+
+</div>
+
+<br>
 
 ```python
 class Sai:
+    def __init__(self):
+        self.role          = "AI Engineer"
+        self.base          = "BITS Pilani, Dubai"
+        self.focus         = ["LLMs", "Agentic AI", "RAG", "Deep Learning"]
+        self.learning      = ["Distributed Systems", "MLOps", "AI Infrastructure"]
+        self.motto         = "Build things that matter."
 
-    role = "AI Engineer"
-
-    interests = [
-        "Machine Learning",
-        "LLMs",
-        "Agentic AI",
-        "Retrieval-Augmented Generation",
-        "Deep Learning"
-    ]
-
-    currently_learning = [
-        "Distributed Systems",
-        "MLOps",
-        "AI Infrastructure"
-    ]
-
-    motto = "Build things that matter."
+    def __repr__(self):
+        return f"<Sai building {self.focus[1]} systems>"
 ```
 
-<img align="right" width="330" src="YOUR_GIF_HERE"/>
+<br>
 
-I'm a Computer Science student at **BITS Pilani Dubai** who enjoys building AI systems that solve real-world problems.
+## `>` Tech Stack
 
-Currently exploring large language models, retrieval systems, autonomous agents, and scalable AI infrastructure.
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
----
+**Languages**
+<br><br>
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=00FF9C&labelColor=0A0A0A)
+![Java](https://img.shields.io/badge/-Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=00FF9C&labelColor=0A0A0A)
+![SQL](https://img.shields.io/badge/-SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=00FF9C&labelColor=0A0A0A)
 
-## Tech Stack
+</td>
+<td valign="top" width="33%">
 
-### Languages
+**AI / ML**
+<br><br>
+![PyTorch](https://img.shields.io/badge/-PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=00FF9C&labelColor=0A0A0A)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=00FF9C&labelColor=0A0A0A)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=00FF9C&labelColor=0A0A0A)
+![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?style=flat-square&logo=langchain&logoColor=00FF9C&labelColor=0A0A0A)
+![NumPy](https://img.shields.io/badge/-NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=00FF9C&labelColor=0A0A0A)
+![Pandas](https://img.shields.io/badge/-Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=00FF9C&labelColor=0A0A0A)
 
-- Python
-- Java
-- SQL
+</td>
+<td valign="top" width="33%">
 
-### AI & Machine Learning
+**Backend & Data**
+<br><br>
+![FastAPI](https://img.shields.io/badge/-FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=00FF9C&labelColor=0A0A0A)
+![Flask](https://img.shields.io/badge/-Flask-0A0A0A?style=flat-square&logo=flask&logoColor=00FF9C&labelColor=0A0A0A)
+![Django](https://img.shields.io/badge/-Django-0A0A0A?style=flat-square&logo=django&logoColor=00FF9C&labelColor=0A0A0A)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=00FF9C&labelColor=0A0A0A)
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=00FF9C&labelColor=0A0A0A)
 
-- PyTorch
-- TensorFlow
-- scikit-learn
-- LangChain
-- LangGraph
-- NumPy
-- Pandas
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-### Backend
+**DevOps**
+<br><br>
+![Docker](https://img.shields.io/badge/-Docker-0A0A0A?style=flat-square&logo=docker&logoColor=00FF9C&labelColor=0A0A0A)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=00FF9C&labelColor=0A0A0A)
+![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat-square&logo=git&logoColor=00FF9C&labelColor=0A0A0A)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=00FF9C&labelColor=0A0A0A)
 
-- FastAPI
-- Flask
-- Django
+</td>
+<td valign="top" width="33%">
 
-### Databases
+**Visualization**
+<br><br>
+![Plotly](https://img.shields.io/badge/-Plotly-0A0A0A?style=flat-square&logo=plotly&logoColor=00FF9C&labelColor=0A0A0A)
+![Dash](https://img.shields.io/badge/-Dash-0A0A0A?style=flat-square&logo=plotly&logoColor=00FF9C&labelColor=0A0A0A)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0A0A0A?style=flat-square&logo=python&logoColor=00FF9C&labelColor=0A0A0A)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0A0A0A?style=flat-square&logo=python&logoColor=00FF9C&labelColor=0A0A0A)
 
-- PostgreSQL
-- MySQL
+</td>
+<td valign="top" width="33%">
 
-### DevOps
+**Agent Frameworks**
+<br><br>
+![LangGraph](https://img.shields.io/badge/-LangGraph-0A0A0A?style=flat-square&logo=langchain&logoColor=00FF9C&labelColor=0A0A0A)
 
-- Docker
-- Kubernetes
-- Git
-- GitHub
+</td>
+</tr>
+</table>
 
-### Data Visualization
+<br>
 
-- Plotly
-- Dash
-- Matplotlib
-- Seaborn
+## `>` Currently Exploring
 
----
+```diff
++ Agentic AI & Multi-Agent Systems
++ GraphRAG
++ LLM Fine-Tuning
++ AI for Healthcare
++ Distributed Systems
+```
 
-## Currently Interested In
+<br>
 
-- Agentic AI
-- Multi-Agent Systems
-- GraphRAG
-- LLM Fine-Tuning
-- AI for Healthcare
-- Distributed Systems
+## `>` Connect
 
----
+<div align="center">
 
-## Connect
+| | |
+|---|---|
+| 📧 **Email** | [f20230254@dubai.bits-pilani.ac.in](mailto:f20230254@dubai.bits-pilani.ac.in) |
+| 💼 **LinkedIn** | [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
 
-📧 f20230254@dubai.bits-pilani.ac.in
-
-💼 LinkedIn → YOUR_LINKEDIN
+<br>
 
 ```
+$ echo "Thanks for stopping by!"
+> Thanks for stopping by!
+```
+
+</div>
